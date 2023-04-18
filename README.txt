@@ -1,0 +1,2 @@
+En este proyecto podrás ver el paso a paso en la construcción y desarrollo de un simple robot hecho con placa arduino UNO. 
+Los componentes y funciones serán especificados en los archivos word que encontrará aquí.
